@@ -15,6 +15,7 @@
 		B9C342DB20029D2E001455EF /* ScannerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9C342DA20029D2E001455EF /* ScannerViewController.swift */; };
 		B9C342DD20029E32001455EF /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9C342DC20029E32001455EF /* HomeViewController.swift */; };
 		B9C342DF2002A312001455EF /* PreviewViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9C342DE2002A312001455EF /* PreviewViewController.swift */; };
+		B9C342E12002AC26001455EF /* ReadME.md in Resources */ = {isa = PBXBuildFile; fileRef = B9C342E02002AC26001455EF /* ReadME.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		B9C342DA20029D2E001455EF /* ScannerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScannerViewController.swift; sourceTree = "<group>"; };
 		B9C342DC20029E32001455EF /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
 		B9C342DE2002A312001455EF /* PreviewViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreviewViewController.swift; sourceTree = "<group>"; };
+		B9C342E02002AC26001455EF /* ReadME.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = ReadME.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,6 +78,7 @@
 				B9C342C920029C39001455EF /* Main.storyboard */,
 				B9C342CC20029C39001455EF /* Assets.xcassets */,
 				B9C342CE20029C39001455EF /* LaunchScreen.storyboard */,
+				B9C342E02002AC26001455EF /* ReadME.md */,
 				B9C342D120029C39001455EF /* Info.plist */,
 			);
 			path = Supporting;
@@ -142,6 +145,7 @@
 			files = (
 				B9C342D020029C39001455EF /* LaunchScreen.storyboard in Resources */,
 				B9C342CD20029C39001455EF /* Assets.xcassets in Resources */,
+				B9C342E12002AC26001455EF /* ReadME.md in Resources */,
 				B9C342CB20029C39001455EF /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
